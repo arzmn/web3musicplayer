@@ -1,6 +1,6 @@
 <h1><u>Decentralized Music Streaming Platform<u></h1>
 
-<h2> Deployed URL: https://arzamaan-web3musicplayer.netlify.app/ </h2>
+<h4> Deployed URL: https://arzamaan-web3musicplayer.netlify.app/ </h4>
 <p>Music streaming platform built on Web 3.0 with with Albums & songs as NFT collections.</p>
 <ul>
   <li>Used web3 moralis API to fetch any NFT collection based on a contract address</li>
