@@ -1,4 +1,4 @@
-<h1><u>Decentralized Music Player<u></h1>
+<h1><u>Decentralized Music Streaming Platform<u></h1>
 <p>Music streaming platform built on Web 3.0 with with Albums & songs as NFT collections.</p>
 <hr/>
 
