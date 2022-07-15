@@ -12,3 +12,9 @@
 <img src="https://i.postimg.cc/fWp7Mr6X/Screenshot-2090.png">
 <img src="https://i.postimg.cc/RVt8c8fQ/Screenshot-2091.png">
 <img src="https://i.postimg.cc/cdp1GyXZ/Screenshot-2093.png">
+
+<h3> Run App </h3>
+<ul>
+<li> Open terminal, CD <directory_name></li>
+<li>Run command-> npm start</li>
+</ul>
